@@ -12,7 +12,7 @@
 
 | **Status**  | **Nome**  | **Link**  | **Obs.**  |
 |---|---|---|---|
-| **_%_** |   | []()  |   |
+| **_100%_** |  Apostila - SQL e modelagem com banco de dados  | [ SQL e modelagem com banco de dados](https://github.com/josemalcher/SQL-e-Modelagem-com-Banco-de-Dados-Livro-Alura)  | Apostila da ALURA  |
 
 ------------
 
